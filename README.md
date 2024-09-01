@@ -105,3 +105,5 @@ You need to update file `alert.rule` on Prometheus configurations
 ```
 ### Example For the exporter
 ![alt text](auditd.png)
+
+![alt text](incident.png)
